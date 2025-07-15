@@ -1,8 +1,10 @@
 📚 Bookstore SQL Analytics
 
+
 Overview
 
 This project contains SQL queries for analyzing a fictional bookstore database. It covers customer insights, book sales, order patterns, and genre performance using basic to advanced SQL techniques.
+
 
 Tables Used
 
@@ -16,16 +18,53 @@ order_items: Books per order
 
 reviews: Book ratings and feedback
 
-Key Queries
 
-List customers, books, and genres
+ Queries & Use Cases
 
-Find high-priced books and large orders
+ 
+🔍 Basic Retrieval
 
-Calculate average book prices and sales by genre
+List of all customers and their emails.
 
-Identify top customers and best-selling books
+Total number of books available.
 
-Detect unreviewed books and data mismatches
+Distinct genres in the catalog.
 
-Analyze customer behavior by genre
+Books priced over 50.
+
+Orders with total amounts above 80.
+
+Customers located in Ghana.
+
+
+📊 Aggregations
+
+Average price of books.
+
+Titles and genres of books above average price.
+
+Top 5 most expensive books.
+
+Total sales per genre.
+
+Top 3 customers by total spending.
+
+
+
+🔗 Joins & Advanced Analysis
+
+Full order summary: order ID, customer name, date, and total amount.
+
+Reviewed books with average rating and review count.
+
+Orders containing multiple items.
+
+Customers with multiple orders.
+
+Books never ordered.
+
+Most purchased book by quantity.
+
+Detailed customer purchase profiles: orders, quantity, spending.
+
+Data validation: orders where recorded total doesn’t match calculated amount.
