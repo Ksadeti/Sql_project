@@ -8,6 +8,7 @@ This project contains SQL queries for analyzing a fictional bookstore database. 
 
 Tables Used
 
+
 customers: Customer info (name, email, country)
 
 books: Book details (title, genre, price)
@@ -19,10 +20,13 @@ order_items: Books per order
 reviews: Book ratings and feedback
 
 
+ 
  Queries & Use Cases
 
  
+
 🔍 Basic Retrieval
+
 
 List of all customers and their emails.
 
@@ -37,7 +41,9 @@ Orders with total amounts above 80.
 Customers located in Ghana.
 
 
+
 📊 Aggregations
+
 
 Average price of books.
 
@@ -51,7 +57,9 @@ Top 3 customers by total spending.
 
 
 
+
 🔗 Joins & Advanced Analysis
+
 
 Full order summary: order ID, customer name, date, and total amount.
 
