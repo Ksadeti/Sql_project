@@ -1,0 +1,31 @@
+customer_id,name,email,country
+1,Alice Johnson,user1@example.com,USA
+2,Bob Smith,user2@example.com,Canada
+3,Charles Boateng,user3@example.com,Ghana
+4,Diana Prince,user4@example.com,UK
+5,Eric Adams,user5@example.com,USA
+6,Fatima Bello,user6@example.com,Nigeria
+7,George Mensah,user7@example.com,Ghana
+8,Hannah White,user8@example.com,Australia
+9,Isaac Newton,user9@example.com,UK
+10,Jenny Lee,user10@example.com,South Korea
+11,Kwame Nkrumah,user11@example.com,Ghana
+12,Laura Chen,user12@example.com,China
+13,Mohammed Al-Fulan,user13@example.com,UAE
+14,Nadia Singh,user14@example.com,India
+15,Olivia Davis,user15@example.com,Canada
+16,Paul Jones,user16@example.com,USA
+17,Queen Afia,user17@example.com,Ghana
+18,Raymond Clark,user18@example.com,Australia
+19,Sarah Osei,user19@example.com,Ghana
+20,Thomas Müller,user20@example.com,Germany
+21,Ursula Wills,user21@example.com,USA
+22,Victor Hugo,user22@example.com,France
+23,Wendy Parker,user23@example.com,USA
+24,Xander Cage,user24@example.com,USA
+25,Yaa Asantewaa,user25@example.com,Ghana
+26,Zachary Knight,user26@example.com,Canada
+27,Amanda Bright,user27@example.com,USA
+28,Benjamin Grant,user28@example.com,UK
+29,Cynthia Ofori,user29@example.com,Ghana
+30,Derrick Kim,user30@example.com,South Korea
